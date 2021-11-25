@@ -17,3 +17,4 @@ int validar(const char codigo[]) {
     return 0; // digito errado
   return 1; // digito correto
 }
+n
